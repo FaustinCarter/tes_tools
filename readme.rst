@@ -1,0 +1,1 @@
+A collection of Igor tools. Mostly used for crunching data from a voltage-biased TES detector. But there are lots of useful histogram tools, as well as a loader for the binary files outputted by Agilent oscilloscopes!
